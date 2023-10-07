@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fernanda Werneque de Oliveira Maximiano",
+    "position": "Coordenadora Geral",
+    "coordination": "Geral",
+    "enable": true,
+    "birth": "1997-03-30T00:00:00",
+    "startingDate": "2019-12-07T00:00:00"
+  },
+  {
+    "name": "Emmanuel Cosme Martins Bento",
+    "position": "Coordenador Adjunto Geral",
+    "coordination": "Geral",
+    "enable": true,
+    "birth": "1999-08-07T00:00:00",
+    "startingDate": "2019-12-07T00:00:00"
+  },
+  {
+    "name": "Giovanna Alves Rezende ",
+    "position": "Coordenadora Gestão de Pessoas",
+    "coordination": "Gestão de Pessoas",
+    "enable": true,
+    "birth": "2002-06-19T00:00:00",
+    "startingDate": "2022-04-19T00:00:00"
+  }
+]
