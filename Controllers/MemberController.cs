@@ -101,7 +101,7 @@ namespace CreaJrLeopoldinaAPI.Controllers
         }
 
         //Adicionar autenticação 
-        /*
+     
         [HttpPost("postmember")]
         public ActionResult PostMember(Member member)
         {
@@ -136,7 +136,7 @@ namespace CreaJrLeopoldinaAPI.Controllers
             }
         }
 
-
+ 
 
         [HttpPost("postseveralmembers")]
         public ActionResult<IEnumerable<Member>> PostMember(List<Member> members)
@@ -178,7 +178,7 @@ namespace CreaJrLeopoldinaAPI.Controllers
                 _logger.LogError(ex, "Ocorreu um erro ao adicionar um membro");
                 return StatusCode(500);
             }
-        }*/
+        }
 
     }
 }
